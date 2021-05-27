@@ -1,0 +1,1 @@
+# salarypredicter-ml-model
